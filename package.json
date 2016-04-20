@@ -1,6 +1,6 @@
 {
   "name": "function.name",
-  "description": "Function name support for Internet Explorer.",
+  "description": "Function name shim (especially for supporting function names in Internet Explorer).",
   "keywords": [
     "function",
     "name",
