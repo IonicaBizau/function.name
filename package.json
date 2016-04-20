@@ -1,0 +1,27 @@
+{
+  "name": "function.name",
+  "description": "Function name support for Internet Explorer.",
+  "keywords": [
+    "function",
+    "name",
+    "support",
+    "for",
+    "internet",
+    "explorer"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/function.name.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/function.name/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/function.name#readme"
+}
