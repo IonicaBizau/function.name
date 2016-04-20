@@ -1,0 +1,1 @@
+"use strict";!function(){var t="name";Object.defineProperty(Function.prototype,t,{get:function(){this.toString().match(/^function\s*([^\s(]+)/)[1],Object.defineProperty(this,t,{value:name})}})}();
