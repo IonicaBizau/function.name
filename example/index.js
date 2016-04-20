@@ -2,4 +2,7 @@
 
 const functionName = require("../lib");
 
-console.log(functionName());
+function foo () {}
+
+console.log(functionName(foo));
+// => foo
