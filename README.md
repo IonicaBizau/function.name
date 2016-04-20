@@ -38,6 +38,8 @@ Get the function name.
 
 
 
+Usually, you will **not** use this as function but you will access the `name` field on the function directly.
+
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
