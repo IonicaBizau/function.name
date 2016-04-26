@@ -27,6 +27,7 @@ console.log(functionName(foo));
 
 ## :memo: Documentation
 
+
 ### `functionName(input)`
 Get the function name.
 
