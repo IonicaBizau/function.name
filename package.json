@@ -42,5 +42,8 @@
     "menu/",
     "cli.js",
     "index.js"
-  ]
+  ],
+  "dependencies": {
+    "noop6": "^1.0.1"
+  }
 }
