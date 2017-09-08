@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Get the function name.
 
 #### Params
+
 - **Function** `input`: The input function.
 
 #### Return
