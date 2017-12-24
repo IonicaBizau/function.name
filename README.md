@@ -12,7 +12,11 @@ If the name field is not accessible (usually this happens on Internet Explorer),
 ## :cloud: Installation
 
 ```sh
-$ npm i --save function.name
+# Using npm
+npm install --save function.name
+
+# Using yarn
+yarn add function.name
 ```
 
 
@@ -37,7 +41,9 @@ There are few ways to get help:
 
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
+
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
 
 
 ## :memo: Documentation
@@ -84,6 +90,7 @@ If you are using this library in one of your projects, add it in this list. :spa
 
 
  - [`aem-react-js`](https://npmjs.com/package/aem-react-js) (by Stefan Meyer)—Aem components written in React.
+ - [`aem-react-js-alt`](https://npmjs.com/package/aem-react-js-alt) (by Brian Bolton)—Aem components written in React. This version utilizes React v16 and adds a toggle for enabling client hydration outside of Publish mode.
  - [`typpy`](https://github.com/IonicaBizau/typpy)—A better typeof for JavaScript.
 
 ## :scroll: License
