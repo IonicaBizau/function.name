@@ -89,8 +89,6 @@ Thanks! :heart:
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
 
- - [`aem-react-js`](https://npmjs.com/package/aem-react-js) (by Stefan Meyer)—Aem components written in React.
- - [`aem-react-js-alt`](https://npmjs.com/package/aem-react-js-alt) (by Brian Bolton)—Aem components written in React. This version utilizes React v16 and adds a toggle for enabling client hydration outside of Publish mode.
  - [`typpy`](https://github.com/IonicaBizau/typpy)—A better typeof for JavaScript.
 
 ## :scroll: License
