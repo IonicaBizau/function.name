@@ -1,6 +1,4 @@
-"use strict";
-
-const functionName = require("../lib");
+import functionName from "../lib/index.js";
 
 function foo () {}
 

@@ -76,7 +76,7 @@ yarn add function.name
 
 
 ```js
-const functionName = require("function.name");
+import functionName from "function.name";
 
 function foo () {}
 
